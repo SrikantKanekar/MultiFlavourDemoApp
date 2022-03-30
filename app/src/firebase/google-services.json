@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716504567499",
+    "project_id": "multi-flavour-demo-app",
+    "storage_bucket": "multi-flavour-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716504567499:android:42a8909e7c1c25ef3f554e",
+        "android_client_info": {
+          "package_name": "com.example.multiflavourdemoapp.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716504567499-m7smq31d706d2r9kmgfqdi7mj129af5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuIB7k3sPasIMshX-tv6XlR8nTh9m0Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716504567499-m7smq31d706d2r9kmgfqdi7mj129af5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
